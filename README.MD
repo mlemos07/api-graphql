@@ -15,7 +15,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Node
 - GraphQL
 - Apollo-Server
--
+
 ---
 
 ## 📦 Como baixar o projeto
